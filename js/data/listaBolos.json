@@ -1,0 +1,34 @@
+{
+	"Bolos": [
+	{
+		"name": "Bolo de cenoura" ,
+		"descricao": "Bolo de cenoura, coberto com brigadeiro",
+		"valor": 20.00
+		"img": "img/cenoura.jpg"
+	},
+	{
+		"name": "Bolo de cocô" ,
+		"descricao": "Bolo de cenoura, coberto com brigadeiro",
+		"valor": 20.00
+		"img": "img/coco.jpg"
+	},
+	{
+		"name": "Bolo de maça" ,
+		"descricao": "Bolo de cenoura, coberto com brigadeiro",
+		"valor": 20.00
+		"img": "img/maca.jpg"
+	},
+	{
+		"name": "Bolo de banana" ,
+		"descricao": "Bolo de cenoura, coberto com brigadeiro",
+		"valor": 20.00
+		"img": "img/banana.jpg"
+	},
+	{
+		"name": "Bolo de laranja" ,
+		"descricao": "Bolo de cenoura, coberto com brigadeiro",
+		"valor": 20.00
+		"img": "img/laranja.jpg"
+	}
+	];
+}
